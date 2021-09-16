@@ -12,7 +12,7 @@
   🚀 Tenho conhecimento em :
 
  
-<img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter"> <img src="https://img.shields.io/badge/-Scikit_learn-black?logo=scikit-learn"> <img src="https://img.shields.io/badge/-Pandas-black?logo=pandas"> <img src="https://img.shields.io/badge/-Power_BI-black?logo=Power BI"> <img src="https://img.shields.io/badge/-NumPy-black?logo=NumPy">
+<img src="https://img.shields.io/badge/-Python-black?logo=Python"> <img src="https://img.shields.io/badge/-Jupyter-black?logo=Jupyter"> <img src="https://img.shields.io/badge/-Scikit_learn-black?logo=scikit-learn"> <img src="https://img.shields.io/badge/-Pandas-black?logo=pandas"> <img src="https://img.shields.io/badge/-Power_BI-black?logo=Power BI"> <img src="https://img.shields.io/badge/-NumPy-black?logo=NumPy"> <img src="https://img.shields.io/badge/-Google_Colab-black?logo=Google Colab">
 </p>
 
 
