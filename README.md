@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Seja bem vindo(a) ao meu perfil ❤️</strong>
+  <strong>Seja bem vindo ao meu perfil ❤️</strong>
  
  
   Atuo nos processos de coleta, estruturação, processamento e visualização dos dados. 
