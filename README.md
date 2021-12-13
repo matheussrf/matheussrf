@@ -5,7 +5,7 @@
  
  
   Atuo nos processos de coleta, estruturação, processamento e visualização dos dados. 
-  Atualmente estou estudando a construção de modelos de aprendizado de máquina algumas técnicas de validação.
+  Atualmente estou estudando a construção de modelos de aprendizado de máquina e algumas técnicas de validação.
 </p>
 
 <p align="left">
